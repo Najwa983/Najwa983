@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Najwa983
+- 👋 Hi, I’m Najwa
 - 👀 I’m interested in web developement
 - 🌱 I’m currently a software enginering student 
 - 📫 reach me on Najwa.lakmouri1@gmail.com
